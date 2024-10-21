@@ -38,6 +38,6 @@ Hostal-wise, there are lots of places to choose in Paris, prices for a couple ra
 
 In comparison to Paris, Madrid is cheaper and for couples it has a wider offer of hotels, you can compare through graphs in the repository. Also activities in both cities are promising, entertaining and guarantee a great time!
 
-For the future, I would like to employ the library selenium to webscrap the activities price. Also, both API calls and plottings can take asyncrony. A more insightful EDA would be likable too, taking into account all the raw data I was able to catch.
+For the future, I would like to employ the library selenium to webscrap the activities price and obtain some insightful eco-friendly activities. Also, both API calls and plottings can take asyncrony. A more insightful EDA would be likable too, taking into account all the raw data I was able to catch.
 
 Thanks for reading!
